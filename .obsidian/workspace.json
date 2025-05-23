@@ -1,20 +1,20 @@
 {
   "main": {
-    "id": "5f9f6c1c006455b8",
+    "id": "7d9b5762b6421512",
     "type": "split",
     "children": [
       {
-        "id": "aed5df0a588c294d",
+        "id": "1ff8e0842e11b62d",
         "type": "tabs",
         "children": [
           {
-            "id": "64d39c5c0a686c9f",
+            "id": "3f3bdc101b32734a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fea51b0eb67ac458",
+    "id": "8c07f1e7bed5b7f6",
     "type": "split",
     "children": [
       {
-        "id": "fb00953197903602",
+        "id": "44ff4b2e59001795",
         "type": "tabs",
         "children": [
           {
-            "id": "47b92d5b31c63128",
+            "id": "940ab442f7506364",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +44,7 @@
             }
           },
           {
-            "id": "3c553ff638ce5bfa",
+            "id": "57aa11e94fabaa78",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "9ba0ab7eac42f984",
+            "id": "19d90bba0f0626c4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,15 +77,15 @@
     "width": 300
   },
   "right": {
-    "id": "7dd02e0d49252197",
+    "id": "881edd8e98ae4e32",
     "type": "split",
     "children": [
       {
-        "id": "54c450c605bd8ead",
+        "id": "46fec1d2ac868832",
         "type": "tabs",
         "children": [
           {
-            "id": "20b59ea2f1a2cc1b",
+            "id": "3612548bd863cd3d",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "ddb5c7d0688c256c",
+            "id": "137c0ff7a30456ba",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -116,7 +116,7 @@
             }
           },
           {
-            "id": "7ebbff2ab95fd00e",
+            "id": "d55f49bb64cf62ef",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +131,7 @@
             }
           },
           {
-            "id": "45fa11e3b119cfa4",
+            "id": "44a3342ec7d56481",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -161,8 +161,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64d39c5c0a686c9f",
-  "lastOpenFiles": [
-    "Welcome.md"
-  ]
+  "active": "940ab442f7506364",
+  "lastOpenFiles": []
 }
